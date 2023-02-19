@@ -1,9 +1,5 @@
 # XpressSwap
 
-<img src="images/swap page mantle.png" alt="Logo">
-
-<img src="images/swap page filecoin.png" alt="Logo">
-
 ### 📝 Project Description
 
 #### 😎 Idea
@@ -115,25 +111,3 @@ or
 
 npm run build
 ```
-
-### 📷 Images
-
-<img src="images/pool page mantle.png" alt="Logo">
-
-<img src="images/pool page filecoin.png" alt="Logo">
-
-<img src="images/create pair mantle.png" alt="Logo">
-
-<img src="images/create pair filecoin.png" alt="Logo">
-
-<img src="images/add liquidity mantle.png" alt="Logo">
-
-<img src="images/add liquidity filecoin.png" alt="Logo">
-
-<img src="images/remove liquidity mantle.png" alt="Logo">
-
-<img src="images/remove liquidity filecoin.png" alt="Logo">
-
-<img src="images/import pool mantle.png" alt="Logo">
-
-<img src="images/import pool filecoin.png" alt="Logo">

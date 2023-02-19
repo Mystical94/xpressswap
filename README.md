@@ -1,5 +1,9 @@
 # XpressSwap
 
+<img src="images/swap page mantle.png" alt="Logo">
+
+<img src="images/swap page filecoin.png" alt="Logo">
+
 ### 📝 Project Description
 
 #### 😎 Idea
@@ -12,7 +16,7 @@
 #### 💻 Implementation
 - We have forked UniswapV2 and deployed it on the Mantle Network as well as on the Filecoin Network, as well as rendered our own UI and link the smart contracts with the UI, allowing users to interact with the protocol.
 - We have also made some modifications to the Uniswap's smart contracts to automatically transmit 0.01% of the total fees for the projects, for a total of 0.08% to the global causes, 0.02% to the protocol for continued development and improvement of the protocol, and 0.3% to the liquidity providers for their contribution.
-- Tools Used: Solidity, Remix, Mantle Blockchain, Filecoin Blockchain, React and Metamask.
+- Tools Used: Solidity, Remix, Mantle Blockchain, Filecoin Blockchain, uniswapV2, React and Metamask.
 
 #### 👥 Intended Users
 - People who wnat complete authority and transparency over their assets are the intended users as DEXs are decentralized and provides complete transparency and record which is publicaly avaliable to everyone on the Blockchain
@@ -25,7 +29,7 @@
 
 
 ### 📺 Video Demo
-
+https://youtu.be/TX15ZyDugKc
 
 ### ☄️ What's next?
 - More features will be introduced, such as farming, staking, and limit orders to make XpressSwap more accessible to everyone and a common destination for everyone's needs.
@@ -111,3 +115,25 @@ or
 
 npm run build
 ```
+
+### 📷 Images
+
+<img src="images/pool page mantle.png" alt="Logo">
+
+<img src="images/pool page filecoin.png" alt="Logo">
+
+<img src="images/create pair mantle.png" alt="Logo">
+
+<img src="images/create pair filecoin.png" alt="Logo">
+
+<img src="images/add liquidity mantle.png" alt="Logo">
+
+<img src="images/add liquidity filecoin.png" alt="Logo">
+
+<img src="images/remove liquidity mantle.png" alt="Logo">
+
+<img src="images/remove liquidity filecoin.png" alt="Logo">
+
+<img src="images/import pool mantle.png" alt="Logo">
+
+<img src="images/import pool filecoin.png" alt="Logo">

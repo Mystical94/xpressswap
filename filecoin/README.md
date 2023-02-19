@@ -1,50 +1,26 @@
 # XpressSwap
 
-### Project Description
+A one point destination to swap your cryptos on Filecoin blockchain
 
-##### Idea
-- People put their money in banks thinking they have control over it, but in actuality, banks control the money.
-- 'Your Money, Your Control,' is the core of Blockchain Technology which is how Decentralized Exchange work under the hood and this has long attracted me. As laws tighten, more people are turning to decentralised exchanges, discovering the actual value of blockchain and decentralised exchanges.
-- Banks have unlimited control over money and can even refuse to enable customers to withdraw it in an emergency.
-- There is no transparency in the operations of the Banks and everingthing is Centralized
-- What's a better way to exchange your money while still having the ability to contribute to the Mantle Ecosystem in the form of the fees which you anyhow have to pay to the big Institutions and banks.
+## XpressSwap Interface for Aurora(EVM Blockchain Layer for NEAR) Network
 
-##### Implementation
-- We have forked UniswapV2 and deployed it on the Mantle Network, as well as rendered our own UI, which is being hosted using Spheron Protocol, and link the smart contracts with the UI, allowing users to interact with the protocol.
-- We have also made some modifications to the Uniswap's smart contracts to automatically transmit 0.01% of the total fees for the projects, for a total of 0.08% to the global causes, 0.02% to the protocol for continued development and improvement of the protocol, and 0.3% to the liquidity providers for their contribution.
-- Tools Used: Solidity, Remix, Mantle Blockchain, React and Metamask.
+An open source interface for XpressSwap -- a protocol for decentralized exchange on Filecoin.
 
-##### Intended Users
-- People who wnat complete authority and transparency over their assets are the intended users as DEXs are decentralized and provides complete transparency and record which is publicaly avaliable to everyone on the Blockchain
+Enabling users to:
 
-### Summary
-- XpressSwap enables anyone from anywhere in the globe to purchase and sell cryptocurrencies immediately using Mantle Network.
-- XpressSwap will contribute to the projects being build on the Mantle Network by providing them with the funds as decided by the community.
-- It does not discriminate anyone and will be open to everyone.
-- Xpress Token can be earned by providing liquidity and earning a steady passive income.
+- Add and remove their liquidity positions on XpressSwap protocol
+- Swap tokens on XpressSwap protocol
 
-### URLs
-
-
-### Video Demo
-
-
-### ☄️ What's next?
-- More features will be introduced, such as farming, staking, and limit orders to make XpressSwap more accessible to everyone and a common destination for everyone's needs.
-- Creating a fully community-driven protocol in which the community votes on all protocol-related decisions.
-
-### Deployed Addresses
-- Factory: [0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f](https://hyperspace.filfox.info/en/address/0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f)
-- Router: [0x90d4e9eb792602aa7a7506b477b878307c35e24a](hhttps://hyperspace.filfox.info/en/address/0x90d4e9eb792602aa7a7506b477b878307c35e24a)
-- WTFIL Address : [0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9](https://hyperspace.filfox.info/en/address/0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9)
-- Multicall contract Address : [0x0c0d088a6fe7c65754d821eb94bce29c2cfb0d1d](https://hyperspace.filfox.info/en/address/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d)
-
-### 🚫 License
-This repository includes an [unlicensed](http://unlicense.org/) statement.
 
 ## Deploying the XpressSwap on local machine
 
 Clone the repository
+
+move into the filecoin Directory
+
+```sh
+cd filecoin
+```
 
 move into the UserInterface Directory
 
@@ -91,3 +67,17 @@ or
 
 npm run build
 ```
+
+### ☄️ What's next?
+- More features will be introduced, such as farming, staking, and limit orders to make XpressSwap more accessible to everyone and a common destination for everyone's needs.
+- Creating a fully community-driven protocol in which the community votes on all protocol-related decisions.
+- Making it live on the Filecoin Blockchain (coming very soon 😉)
+
+### Deployed Addresses
+- Factory: [0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f](https://hyperspace.filfox.info/en/address/0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f)
+- Router: [0x90d4e9eb792602aa7a7506b477b878307c35e24a](hhttps://hyperspace.filfox.info/en/address/0x90d4e9eb792602aa7a7506b477b878307c35e24a)
+- WTFIL Address : [0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9](https://hyperspace.filfox.info/en/address/0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9)
+- Multicall contract Address : [0x0c0d088a6fe7c65754d821eb94bce29c2cfb0d1d](https://hyperspace.filfox.info/en/address/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d)
+
+### 🚫 License
+This repository includes an [unlicensed](http://unlicense.org/) statement.

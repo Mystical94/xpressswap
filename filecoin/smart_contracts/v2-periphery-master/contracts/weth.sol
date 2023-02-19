@@ -20,8 +20,8 @@
 pragma solidity ^0.4.18;
 
 contract WETH9 {
-    string public name     = "Wrapped BIT";
-    string public symbol   = "WBIT";
+    string public name     = "Wrapped Testnet Filcoin";
+    string public symbol   = "WTFIL";
     uint8  public decimals = 18;
 
     event  Approval(address indexed src, address indexed guy, uint wad);

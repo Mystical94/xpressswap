@@ -304,9 +304,9 @@
 	},
 	"sources": {
 		"periphery_contracts/weth.sol": {
-			"keccak256": "0x3f46fe13a5892d9b7b1044b580e2f3cb2157e5292f612673ade285182f666d19",
+			"keccak256": "0x7a471ab443db5b85932b2bb59d6fc2ff1c9d845fd9bf3e3d4991861161bfefc4",
 			"urls": [
-				"bzzr://cd3db7bed8b6a7712078e0560e768ae25a2c052d28c9138367cdd58a7ecf1cad"
+				"bzzr://2e78384b9f259d359c850ee63dc027d2d6670035a00befcf672d096d72d51ef9"
 			]
 		}
 	},

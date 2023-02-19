@@ -102,5 +102,5 @@ typings/
 # TernJS port file
 .tern-port
 
-filecoin/UserInterface
+filecoin/UserInterface/node_modules
 mantle/UserInterface/node_modules

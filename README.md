@@ -2,19 +2,19 @@
 
 ### Project Description
 
-##### Idea
+#### Idea
 - People put their money in banks thinking they have control over it, but in actuality, banks control the money.
 - 'Your Money, Your Control,' is the core of Blockchain Technology which is how Decentralized Exchange work under the hood and this has long attracted me. As laws tighten, more people are turning to decentralised exchanges, discovering the actual value of blockchain and decentralised exchanges.
 - Banks have unlimited control over money and can even refuse to enable customers to withdraw it in an emergency.
 - There is no transparency in the operations of the Banks and everingthing is Centralized
 - What's a better way to exchange your money while still having the ability to contribute to the Mantle and Filecoin Ecosystem in the form of the fees which you anyhow have to pay to the big Institutions and banks.
 
-##### Implementation
+#### Implementation
 - We have forked UniswapV2 and deployed it on the Mantle Network as well as on the Filecoin Network, as well as rendered our own UI and link the smart contracts with the UI, allowing users to interact with the protocol.
 - We have also made some modifications to the Uniswap's smart contracts to automatically transmit 0.01% of the total fees for the projects, for a total of 0.08% to the global causes, 0.02% to the protocol for continued development and improvement of the protocol, and 0.3% to the liquidity providers for their contribution.
 - Tools Used: Solidity, Remix, Mantle Blockchain, Filecoin Blockchain, React and Metamask.
 
-##### Intended Users
+#### Intended Users
 - People who wnat complete authority and transparency over their assets are the intended users as DEXs are decentralized and provides complete transparency and record which is publicaly avaliable to everyone on the Blockchain
 
 ### Summary
@@ -48,7 +48,7 @@
 ### 🚫 License
 This repository includes an [unlicensed](http://unlicense.org/) statement.
 
-## Deploying the XpressSwap on local machine
+### Deploying the XpressSwap on local machine
 
 Clone the repository
 

@@ -2,7 +2,7 @@
 
 A one point destination to swap your cryptos on Filecoin blockchain
 
-## XpressSwap Interface for Aurora(EVM Blockchain Layer for NEAR) Network
+## XpressSwap Interface for Filecoin(Hyperspace Testnet) Network
 
 An open source interface for XpressSwap -- a protocol for decentralized exchange on Filecoin.
 
@@ -73,9 +73,9 @@ npm run build
 - Creating a fully community-driven protocol in which the community votes on all protocol-related decisions.
 - Making it live on the Filecoin Blockchain (coming very soon 😉)
 
-### Deployed Addresses
+### 💪 Deployed Addresses
 - Factory: [0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f](https://hyperspace.filfox.info/en/address/0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f)
-- Router: [0x90d4e9eb792602aa7a7506b477b878307c35e24a](hhttps://hyperspace.filfox.info/en/address/0x90d4e9eb792602aa7a7506b477b878307c35e24a)
+- Router: [0x90d4e9eb792602aa7a7506b477b878307c35e24a](https://hyperspace.filfox.info/en/address/0x90d4e9eb792602aa7a7506b477b878307c35e24a)
 - WTFIL Address : [0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9](https://hyperspace.filfox.info/en/address/0x3221ce4ade9a9564b34992a6d9dd35e38d3884c9)
 - Multicall contract Address : [0x0c0d088a6fe7c65754d821eb94bce29c2cfb0d1d](https://hyperspace.filfox.info/en/address/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d)
 
